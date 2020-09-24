@@ -10,5 +10,5 @@ All Users
  - Else follow GUI
 
 Requirement and Database
- -Node.js
- -Use Plain JSON as Database
+ - Node.js
+ - Use Plain JSON as Database
