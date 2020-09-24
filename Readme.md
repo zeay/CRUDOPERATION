@@ -6,8 +6,8 @@ Server get started to PORT 3000 in local Enviroment
   - http://localhost:3000  Home Directory
 
 All Users
- -/users
- -Elese follow GUI
+ - /users
+ - Else follow GUI
 
 Requirement and Database
  -Node.js
